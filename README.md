@@ -54,7 +54,7 @@ or refer to the [Solidity documentation](https://docs.soliditylang.org/).
 ## Authors
 
 Contributors:
-- Your Name  
+ 
   [@ayushkumarr32](https://twitter.com/ayushkumarr32)
 
 ## License
