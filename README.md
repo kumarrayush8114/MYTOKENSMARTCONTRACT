@@ -54,6 +54,7 @@ or refer to the [Solidity documentation](https://docs.soliditylang.org/).
 ## Authors
 
 Contributors:
+AYUSH KUMAR
  
   [@ayushkumarr32](https://twitter.com/ayushkumarr32)
 
